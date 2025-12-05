@@ -1,4 +1,4 @@
-# GN-SINDy: Greedy Sampling Neural Network in Sparse Identification of Nonlinear Partial Differential Equations
+# GN-SINDy for Great Acceleration Dataset
 
 We introduce the Greedy Sampling Neural Network in Sparse Identification of Nonlinear Partial Differential Equations (__GN-SINDy__), a pioneering approach that seamlessly integrates a novel greedy sampling technique, deep neural networks, and advanced sparsity-promoting algorithms. Our method not only addresses the formidable challenges posed by the curse of dimensionality and large datasets in discovering models for nonlinear __PDE__ s but also sets a new standard for efficiency and accuracy by redefining the data collection and minimization units within the __SINDy__ framework. By combining the strengths of these diverse techniques, __GN-SINDy__ represents a leap forward in the realm of model discovery, promising unprecedented insights into the intricate dynamics of complex systems.
 
